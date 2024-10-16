@@ -4,3 +4,6 @@
 [submodule "submod-2"]
 	path = submod-2
 	url = https://github.com/prashantSj789/subrepo3.git
+[submodule "client1"]
+	path = client1
+	url = https://github.com/prashantSj789/react-deploy.git
